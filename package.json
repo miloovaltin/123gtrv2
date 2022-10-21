@@ -1,0 +1,17 @@
+
+{
+"name": "123gtrv2",
+"theme": "123gtr v2",
+"version": "1.3.2",
+"description": "123gtr v2 สมัครสมาชิกเว็บไซต์สล็อตเว็บตรง สมาชิกเยอะ รับเครดิตฟรี",
+"keywords": [
+"123gtr v2",
+"123gtr v2 เครดิตฟรี",
+"123gtr v2 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/123gtrv2",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
